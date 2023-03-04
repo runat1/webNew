@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class progect1 {
+public class progect1 {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("GG");
+
+    }
 }
