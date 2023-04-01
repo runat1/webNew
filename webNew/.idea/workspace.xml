@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-mvc-app-java-config:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="683523c7-8fab-450b-acc3-226fdeb429dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/CRUD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/java/web/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/webapp/WEB-INF/pages/Cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CRUD/src/main/webapp/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/config/DbConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/dao/UserDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/java/web/service/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/webapp/WEB-INF/pages/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/webapp/WEB-INF/pages/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp111/src/main/webapp/WEB-INF/pages/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/.idea/StringMVCApp1fgdebgehrkebgeihy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/StringMVCApp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/spring-mvc-crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/config/DbConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/dao/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/dao/CarDaoWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/java/web/service/CarServiceWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/webapp/WEB-INF/pages/Cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp1fgdebgehrkebgeihy/src/main/webapp/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/.idea/StringMVCApp2+Hibernete.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/config/DatabaseConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/dao/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/dao/CarDaoWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/dao/UserDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/java/web/service/CarServiceWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp2+Hibernete/StringMVCApp2/src/main/resources/hibernate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp4444/PP_2_3_1_spring-mvc-crud-master/.idea/PP_2_3_1_spring-mvc-crud-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/StringMVCApp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/config/DbConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/dao/UserDaoImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5/src/main/java/web/service/UserServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources/420a9159-2692-42bf-960b-d597672b8009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources/420a9159-2692-42bf-960b-d597672b8009/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources/420a9159-2692-42bf-960b-d597672b8009/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources/420a9159-2692-42bf-960b-d597672b8009/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/dataSources/420a9159-2692-42bf-960b-d597672b8009/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/httpRequests/2023-03-20T213447.500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/StringMVCApp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/f/DbConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/dao/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/dao/CarDaoWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/java/web/service/CarServiceWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/webapp/WEB-INF/pages/Cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/webapp/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/src/main/webapp/WEB-INF/pages/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/config/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/controller/CarController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/dao/CarDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/dao/CarDaoWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/model/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/service/CarService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/classes/web/service/CarServiceWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/config/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/controller/CarController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/dao/CarDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/dao/CarDaoWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/model/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/service/CarService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/classes/web/service/CarServiceWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-aop-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-beans-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-context-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-core-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-expression-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-jcl-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-web-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/spring-webmvc-5.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/pages/Cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../StringMVCApp5555/target/spring-mvc-app1/WEB-INF/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok2/blok22/.idea/blok22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok22/.idea/blok22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok22/test/spring-hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok22/test/spring_hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/.idea/blok223.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/blok2234/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/KoscheiTheDeathless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Deth8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Duck5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Egg6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Island2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Needle7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Ocean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/main/java/koschei/models/Wood3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../blok223/cohey/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/model/AnimalsCage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/app/model/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/org/example/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/org/example/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/org/example/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/org/example/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/org/example/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/java/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/src/main/resources/applicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/target/classes/org/example/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/check/target/classes/org/example/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/PP_1_1_3-4_JDBC_Hibernate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/rezerv/src/main/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/chek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/gggg/test/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo/src/main/java/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/src/main/java/com/example/demo/Demo1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo1/src/test/java/com/example/demo/Demo1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/src/main/java/com/example/demo/Demo2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo2/src/test/java/com/example/demo/Demo2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/src/main/java/com/example/demo/Demo3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/demo3/src/test/java/com/example/demo/Demo3ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/PP_1_1_3-4_JDBC_Hibernate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/TaskJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/TaskJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/byte-buddy-1.10.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/hibernate-core-5.4.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/jandex-2.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/pz15/src/test/java/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/src/main/java/com/example/test1/Test1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/test1/src/test/java/com/example/test1/Test1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/TaskJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/dao/UserDaoJDBCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/main/java/org/example/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/pz15/untitled1/src/test/java/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/src/main/java/com/example/spring/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ppz/ttrt/spring/src/test/java/com/example/spring/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/PP_2_2_2_spring-mvc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/main/java/web/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/main/java/web/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/main/java/web/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/src/webapp/WEB-INF/pages/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NHam6yJwtWuVyWirS6b848iyXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/pretProgect/Новая папка/chek/webNew&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;40e517ee6267227286aa7464a0580b94&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp1\src\main\java\web" />
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp1\src\main\resources" />
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp1\src\main\java\web\service" />
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp1\src\main\java\web\dao" />
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp1\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pretProgect\Новая папка\chek\webNew\src\main\webapp\WEB-INF\pages" />
+      <recent name="C:\pretProgect\Новая папка\chek\StringMVCApp2\src\main\java\web" />
+      <recent name="C:\pretProgect\StringMVCApp1\src\main" />
+      <recent name="C:\pretProgect\StringMVCApp1\src\main\java\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="web.model" />
+      <recent name="web.config" />
+      <recent name="web.controller" />
+      <recent name="web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.73">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="spring-mvc-app-java-config" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web.dao.UserDaoImp" />
+      <module name="spring-mvc-app-java-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="spring-mvc-app-java-config" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web.dao.test" />
+      <module name="spring-mvc-app-java-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="webNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="webNew" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.73" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.73" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring-mvc-app-java-config:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="bba9d715-3e23-4f48-9714-beeaf8798300" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57499" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-mvc-app-java-config:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="users.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.73" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WEB-INF/pages/users.html" />
+      <deployment>
+        <artifact name="spring-mvc-app-java-config:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_mvc_app_java_config_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5fcc3c0f-698a-4998-bb65-4ad200722182" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-mvc-app-java-config:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.UserDaoImp" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.73" />
+      <item itemvalue="Tomcat Server.users.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.users.html" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.UserDaoImp" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="683523c7-8fab-450b-acc3-226fdeb429dc" name="Changes" comment="" />
+      <created>1679323621227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679323621227</updated>
+      <workItem from="1679323622294" duration="792000" />
+      <workItem from="1679324421033" duration="7722000" />
+      <workItem from="1679404401760" duration="4375000" />
+      <workItem from="1679415535683" duration="1493000" />
+      <workItem from="1679417037457" duration="69000" />
+      <workItem from="1679417113570" duration="325000" />
+      <workItem from="1679417448387" duration="1131000" />
+      <workItem from="1679420578752" duration="180000" />
+      <workItem from="1679420886991" duration="918000" />
+      <workItem from="1679421811730" duration="127000" />
+      <workItem from="1679494626385" duration="12093000" />
+      <workItem from="1679576709387" duration="6326000" />
+      <workItem from="1679584414437" duration="53000" />
+      <workItem from="1679585206742" duration="811000" />
+      <workItem from="1679587736368" duration="231000" />
+      <workItem from="1679738303426" duration="8275000" />
+      <workItem from="1680188094024" duration="2916000" />
+      <workItem from="1680191240716" duration="5000" />
+      <workItem from="1680191381931" duration="8000" />
+      <workItem from="1680191613508" duration="180000" />
+      <workItem from="1680191884536" duration="5547000" />
+      <workItem from="1680269520979" duration="8161000" />
+      <workItem from="1680277868326" duration="8193000" />
+      <workItem from="1680345507483" duration="1261000" />
+      <workItem from="1680347438176" duration="1507000" />
+      <workItem from="1680348999894" duration="22000" />
+      <workItem from="1680349042555" duration="7000" />
+      <workItem from="1680349949095" duration="70000" />
+      <workItem from="1680350046335" duration="1540000" />
+      <workItem from="1680352060045" duration="157000" />
+      <workItem from="1680352297492" duration="19000" />
+      <workItem from="1680352333001" duration="81000" />
+      <workItem from="1680352449264" duration="16142000" />
+      <workItem from="1680368702904" duration="563000" />
+      <workItem from="1680369274779" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
