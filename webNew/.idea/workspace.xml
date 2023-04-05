@@ -425,7 +425,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;40e517ee6267227286aa7464a0580b94&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -700,6 +700,12 @@
       <workItem from="1680352449264" duration="16142000" />
       <workItem from="1680368702904" duration="563000" />
       <workItem from="1680369274779" duration="36000" />
+      <workItem from="1680369344797" duration="658000" />
+      <workItem from="1680454480523" duration="1270000" />
+      <workItem from="1680528597774" duration="80000" />
+      <workItem from="1680529034578" duration="2482000" />
+      <workItem from="1680627189923" duration="41000" />
+      <workItem from="1680702465340" duration="1389000" />
     </task>
     <servers />
   </component>

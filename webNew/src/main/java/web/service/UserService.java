@@ -7,13 +7,13 @@ import web.model.User;
 import java.util.List;
 
 public interface UserService {
-    @Transactional
+    @Transactional(readOnly=true)
     void addUser(User user);
-
+    @Transactional(readOnly=true)
     List<User> getListOfUsers();
 
     @Transactional
-    void removeUser(long id, User user);
+    void updateUser(long id, User user);
 
     @Transactional
     User getUserId(long id);

@@ -7,9 +7,9 @@ import web.model.User;
 import web.service.UserService;
 
 @Controller
-public class HelloController {
+public class UserController {
 	private final UserService userService;
-	public HelloController(UserService userService) {
+	public UserController(UserService userService) {
 		this.userService = userService;
 	}
 
@@ -24,16 +24,16 @@ public class HelloController {
 		model.addAttribute("user", new User());
 		return "newUser";
 	}
-    @GetMapping("/{id}/remove")
-    public String removeUser(@PathVariable("id") long id, Model model) {
+    @GetMapping("/{id}/getUserId")
+    public String getUserId(@PathVariable("id") long id, Model model) {
         model.addAttribute("user", userService.getUserId(id));
         return "remove";
     }
 
     @PatchMapping("/{id}")
-    public String saveUser(@ModelAttribute("user") User user,
+    public String updateUser(@ModelAttribute("user") User user,
                              @PathVariable("id") long id) {
-        userService.removeUser( id, user);
+        userService.updateUser( id, user);
         return "redirect:/";
     }
 	@DeleteMapping("/{id}/delete")

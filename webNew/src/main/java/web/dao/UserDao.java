@@ -8,16 +8,11 @@ import java.beans.Transient;
 import java.util.List;
 
 public interface UserDao {
-   @Transient
+
    void addUser(User user);
    List<User> getListOfUsers();
 
-
-    @Transactional
-    void removeUser(Long id, User user);
-
-
-    @Transactional
+    void updateUser(Long id, User user);
     User getUserId(long id);
 
     void deleteUserById(long id);

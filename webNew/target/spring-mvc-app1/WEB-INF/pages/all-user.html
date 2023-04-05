@@ -19,7 +19,7 @@
     <td th:text="${user.getLastName()}"></td>
     <td th:text="${user.getMoselMobail()}"></td>
     <td>
-      <a th:href="@{/{id}/remove (id = ${user.getId()})}">
+      <a th:href="@{/{id}/getUserId (id = ${user.getId()})}">
         <input type="button" value="Edit"/>
       </a>
       <form th:method="DELETE" th:action="@{/{id}/delete(id=${user.getId()})}">
