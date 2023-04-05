@@ -24,18 +24,18 @@ public class UserController {
 		model.addAttribute("user", new User());
 		return "newUser";
 	}
-    @GetMapping("/{id}/getUserId")
-    public String getUserId(@PathVariable("id") long id, Model model) {
+    	@GetMapping("/{id}/getUserId")
+    	public String getUserId(@PathVariable("id") long id, Model model) {
         model.addAttribute("user", userService.getUserId(id));
         return "remove";
-    }
+	}
 
-    @PatchMapping("/{id}")
-    public String updateUser(@ModelAttribute("user") User user,
+   	@PatchMapping("/{id}")
+   	public String updateUser(@ModelAttribute("user") User user,
                              @PathVariable("id") long id) {
         userService.updateUser( id, user);
         return "redirect:/";
-    }
+    	}
 	@DeleteMapping("/{id}/delete")
 	public String deleteUser(@PathVariable("id") long id) {
 		userService.deleteUserById(id);
